@@ -25,7 +25,7 @@ class Snatch3rRobot(object):
         self.left_wheel.start_spinning(left_wheel_duty_cycle_percent)
         self.right_wheel.start_spinning(right_wheel_duty_cycle_percent)
 
-        
+
 
 
 class Wheel(object):
